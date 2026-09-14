@@ -37,9 +37,13 @@ If this repo is implemented end-to-end as discussed:
 
 Explicitly not using: Bevy, Unity, Godot, Phaser, Colyseus, Next.js as the game client.
 
+## Docs
+
+Start at [docs/README.md](docs/README.md). Locked decisions, open questions, product, design stubs, architecture, asset pipeline, and build checklists live there.
+
 ## Not decided (do not invent here)
 
-Game name, lore, races, types, synergies, economy numbers, modes beyond snapshot PvP, UI layout details, license, and all other design specifics. Those belong in later discussion and in `docs/` once written.
+Game name, lore, races, types, synergies, economy numbers, modes beyond snapshot PvP, UI layout details, license, and all other design specifics. Tracked in [docs/02-open-questions.md](docs/02-open-questions.md).
 
 ## License
 
