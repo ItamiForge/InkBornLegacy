@@ -1,0 +1,21 @@
+# Races
+
+Status: Stub
+
+No races have been locked.
+
+Draft roster (cut/rename): [WORKING.md](../WORKING.md).
+
+When discussed, record for each race:
+
+- id
+- name
+- fiction (link to lore)
+- gameplay role (if any)
+- synergy hooks (link to synergies)
+- art preset (palette, motifs, LoRA name, reference sheet) — see [templates](../assets/templates-and-presets.md)
+- SFX/VFX tags
+
+## List
+
+_None locked._ Method and analogues only: [WORKING.md](../WORKING.md).
