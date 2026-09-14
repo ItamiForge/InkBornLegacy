@@ -15,14 +15,16 @@ Do not answer these in other docs until they are discussed.
 
 Draft: [WORKING.md](WORKING.md)
 
-- [x] Setting — high fantasy other-world (detail still accumulating)
-- [ ] Tone
-- [ ] Factions / peoples (method given; names and list not locked)
-- [ ] Why fights happen
-- [ ] How a “run” or “match” is framed in-world
-- [ ] Meaning of Ink / Born / Legacy in fiction
-- [ ] Full field list (raw / elemental-physical / emotion)
-- [ ] Proper names for the analogue races
+- [x] Setting — high fantasy other-world; title = sumi-ink aesthetic
+- [x] Tone — dark
+- [x] Peoples — races (wide); examples plus draft codex (not locked)
+- [x] Why fights happen — survival of the fittest; most evil, few good
+- [ ] How a “run” or “match” is framed in-world (motive is enough; framing still open)
+- [x] Meaning of InkBorn Legacy — setting/visual, not extra etymology
+- [ ] Full field lists (raw / elemental / emotion)
+- [ ] Proper names / which draft races survive
+- [x] Pokémon-like — wild fauna and flora
+- [x] All lore in game; secrets and hard unlocks
 
 ## Game design
 
@@ -44,7 +46,7 @@ Draft: [WORKING.md](WORKING.md)
 
 ## Presentation
 
-- [ ] Visual style beyond “shadcn website + cards + AI portraits”
+- [ ] Visual style beyond “shadcn website + cards + AI portraits” — **sumi-ink on art and main components locked**; the rest TBD
 - [ ] Card anatomy (exact slots, sizes)
 - [ ] Battle layout
 - [ ] Shop layout

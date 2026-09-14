@@ -1,12 +1,19 @@
 # Synergies
 
-Status: Stub
+Status: Partial
 
-Locked only that synergies exist and should support PAC-like richness.
+## Locked axes
+
+Combinational grid. All permutations allowed:
+
+- Race
+- Class
+- Emotion **or** raw field
+- Element
 
 ## Stub
 
 - Thresholds: TBD
 - Board vs global: TBD
-- Race vs type vs other: TBD
+- Field lists: TBD
 - Catalog: _none_

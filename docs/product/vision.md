@@ -4,7 +4,7 @@ Status: Locked (product); Stub (fiction)
 
 ## What this is
 
-An async PvP auto-battler sold on Steam.
+An async PvP auto-battler sold on Steam. Dark high-fantasy ink setting.
 
 Players build a team through a shop loop in the same family as Hearthstone Battlegrounds (buy, sell, roll, freeze, upgrade). Content, collection, synergies, and items are in the same family as Pokémon Auto Chess, and should be wider and richer than those games in that regard.
 
@@ -26,4 +26,4 @@ Fights are **not** live 8-player lobbies. A player fights a **snapshot** of anot
 
 ## Name, pitch, fantasy
 
-**Name:** InkBorn Legacy. Fantasy and lore: [WORKING.md](../WORKING.md).
+**Name:** InkBorn Legacy (sumi-ink setting). Dark high fantasy. Lore: [WORKING.md](../WORKING.md).

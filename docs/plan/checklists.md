@@ -23,11 +23,11 @@ Check items off as they are done. Do not mark design items done by inventing ans
 ## B. Design discussion (M1) — blocked on conversation
 
 - [x] Game name — InkBorn Legacy
-- [ ] Lore — first pass in `docs/WORKING.md`; continue discussion
-- [ ] Races list
-- [ ] Types list
+- [x] Lore — accumulating in `docs/WORKING.md` (tone, motive, ink aesthetic, catalog split, synergy axes)
+- [ ] Races list — draft codex in WORKING.md, not locked
+- [ ] Types list — axes locked; field/class lists TBD
 - [ ] Card kinds and catalog scope for v1
-- [ ] Synergy rules
+- [ ] Synergy rules — axes locked (race, class, emotion-or-raw, element); thresholds TBD
 - [ ] Heroes
 - [ ] Items
 - [ ] Shop/economy rules and numbers

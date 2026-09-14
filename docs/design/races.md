@@ -2,7 +2,9 @@
 
 Status: Stub
 
-No races have been decided.
+No races have been locked.
+
+Draft roster (cut/rename): [WORKING.md](../WORKING.md).
 
 When discussed, record for each race:
 

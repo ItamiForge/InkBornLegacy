@@ -24,8 +24,6 @@ card
 
 ## Stub — look
 
-Art direction, medium, era, faces vs creatures: TBD (lore/design discussion).
+**Locked:** sumi-ink for portraits and main game components (flowing splashes, sprays, calligraphy). One game-wide style LoRA in that language. Per-race LoRAs still apply. Card **frames** styled by race/type in code.
 
-## Counts
-
-No target count decided.
+Counts, exact palettes: TBD.

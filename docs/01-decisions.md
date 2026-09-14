@@ -63,7 +63,12 @@ Only items that were discussed and accepted. No additions.
 42. Client requests the replay and animates the event log.
 43. No dedicated tick server.
 
-## Name and lore (first pass)
+## Name and lore
 
-44. Title: InkBorn Legacy. High-fantasy other-world, original IP, not LOTR-Earth stock races.
-45. Living draft of lore/concepts: [WORKING.md](WORKING.md). Stub files stay stubs until that draft is split.
+44. Title: **InkBorn Legacy**. Names the setting’s **sumi-ink** visual identity (splashes, sprays, calligraphy on art and main components). Original high-fantasy other-world. Cards styled by race/type.
+45. Living draft: [WORKING.md](WORKING.md).
+46. Tone: **dark**. Harsh world. Most things evil, few good. Fights: **survival of the fittest**. Do not complicate motive.
+47. Peoples **are** races (wide). Pokémon-like catalog is **wild fauna and flora**, not peoples. All lore has in-game presence; some secret / hard unlocks.
+48. Raw-field tap: in general **cosmic, elemental, and ancient** beings; exceptions exist.
+49. Synergy grid axes: **race**, **class**, **emotion or raw field**, **element**. All permutations allowed.
+50. Timescales/cosmology are high-level flavor only — not game numbers.
