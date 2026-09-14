@@ -1,6 +1,6 @@
-# [GAME_NAME]
+# InkBorn Legacy
 
-Working title: **TBD**. This repository is a clean slate (v0).
+Working title locked: **InkBorn Legacy**. This repository is a clean slate (v0) plus docs.
 
 Async PvP auto-battler for Steam. Shop, buy, roll, freeze, and upgrade like Hearthstone Battlegrounds. Collection, synergies, items, and content depth like Pokémon Auto Chess, intended to be wider and richer. Most objects are cards. Matches are snapshot PvP (fight another player’s saved board), not a live 8-player lobby.
 
@@ -39,11 +39,12 @@ Explicitly not using: Bevy, Unity, Godot, Phaser, Colyseus, Next.js as the game 
 
 ## Docs
 
-Start at [docs/README.md](docs/README.md). Locked decisions, open questions, product, design stubs, architecture, asset pipeline, and build checklists live there.
+- Living lore/concept: [docs/WORKING.md](docs/WORKING.md)
+- Index: [docs/README.md](docs/README.md)
 
 ## Not decided (do not invent here)
 
-Game name, lore, races, types, synergies, economy numbers, modes beyond snapshot PvP, UI layout details, license, and all other design specifics. Tracked in [docs/02-open-questions.md](docs/02-open-questions.md).
+Races (names and full list), types, synergies, economy numbers, modes beyond snapshot PvP, UI layout details, license, and remaining design. Tracked in [docs/02-open-questions.md](docs/02-open-questions.md).
 
 ## License
 

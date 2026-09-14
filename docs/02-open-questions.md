@@ -5,20 +5,24 @@ Do not answer these in other docs until they are discussed.
 
 ## Identity
 
-- [ ] Game name
-- [ ] Working title (beyond TBD)
+- [x] Game name — **InkBorn Legacy** (slug `InkBornLegacy`)
+- [ ] Display styling (InkBorn vs Inkborn, space vs one word on the box)
 - [ ] License
 - [ ] Steam store name, capsule copy, tags
-- [ ] IP / setting (original vs other) — not decided
+- [x] IP / setting — original high-fantasy other-world
 
 ## Lore and fiction
 
-- [ ] Setting
+Draft: [WORKING.md](WORKING.md)
+
+- [x] Setting — high fantasy other-world (detail still accumulating)
 - [ ] Tone
-- [ ] Factions / peoples
+- [ ] Factions / peoples (method given; names and list not locked)
 - [ ] Why fights happen
 - [ ] How a “run” or “match” is framed in-world
-- See stub: [design/lore.md](design/lore.md)
+- [ ] Meaning of Ink / Born / Legacy in fiction
+- [ ] Full field list (raw / elemental-physical / emotion)
+- [ ] Proper names for the analogue races
 
 ## Game design
 

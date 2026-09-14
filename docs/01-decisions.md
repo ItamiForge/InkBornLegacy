@@ -1,7 +1,7 @@
 # Decisions log
 
 Status: Locked  
-Source: project discussion (stack and product), 2026-09-14
+Source: project discussion (stack, product, name, first lore pass)
 
 Only items that were discussed and accepted. No additions.
 
@@ -62,3 +62,8 @@ Only items that were discussed and accepted. No additions.
 41. Server runs `packages/sim` and stores the replay.
 42. Client requests the replay and animates the event log.
 43. No dedicated tick server.
+
+## Name and lore (first pass)
+
+44. Title: InkBorn Legacy. High-fantasy other-world, original IP, not LOTR-Earth stock races.
+45. Living draft of lore/concepts: [WORKING.md](WORKING.md). Stub files stay stubs until that draft is split.

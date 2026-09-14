@@ -26,4 +26,4 @@ Fights are **not** live 8-player lobbies. A player fights a **snapshot** of anot
 
 ## Name, pitch, fantasy
 
-Stub. See [lore](../design/lore.md) and [open questions](../02-open-questions.md).
+**Name:** InkBorn Legacy. Fantasy and lore: [WORKING.md](../WORKING.md).

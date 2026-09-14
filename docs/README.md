@@ -13,9 +13,10 @@ Do not fill stubs with invented lore, races, types, names, numbers, or flavor.
 
 ## How to read this
 
-1. [Decisions log](01-decisions.md) — what is already decided
-2. [Open questions](02-open-questions.md) — what is not
-3. Product, design, engineering, assets, plan — in that order
+1. **[WORKING.md](WORKING.md)** — living lore and concept (single document for now)
+2. [Decisions log](01-decisions.md) — what is already decided
+3. [Open questions](02-open-questions.md) — what is not
+4. Product, design, engineering, assets, plan — in that order
 
 ## Product
 

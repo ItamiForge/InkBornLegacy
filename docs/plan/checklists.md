@@ -22,8 +22,8 @@ Check items off as they are done. Do not mark design items done by inventing ans
 
 ## B. Design discussion (M1) — blocked on conversation
 
-- [ ] Game name
-- [ ] Lore
+- [x] Game name — InkBorn Legacy
+- [ ] Lore — first pass in `docs/WORKING.md`; continue discussion
 - [ ] Races list
 - [ ] Types list
 - [ ] Card kinds and catalog scope for v1

@@ -1,29 +1,5 @@
 # Lore
 
-Status: Stub
+Status: Draft lives in one file.
 
-No lore has been discussed. Do not fill.
-
-## Setting
-
-TBD
-
-## Tone
-
-TBD
-
-## Peoples / factions / races (fiction)
-
-TBD — mechanical races: [races.md](races.md)
-
-## Why combat happens
-
-TBD
-
-## Match / run framing
-
-TBD
-
-## Names
-
-Game name: TBD
+Do not expand this stub. Use **[WORKING.md](../WORKING.md)** as the single living lore/concept document until we split it.
